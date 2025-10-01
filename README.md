@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1589FF&width=435&lines=Welcome+to+my+profile+on+Github!!!;follow+my+Github+profile....)](https://git.io/typing-svg)
 # Hi there 👋
 
 I'm **Shathir**, an enthusiastic **Undergraduate Student** in Software Engineering at SLIIT City University. I'm passionate about **web development**, **problem-solving**, and exploring innovative solutions in **tech**. 🚀
