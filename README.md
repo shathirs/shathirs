@@ -10,8 +10,7 @@ Feel free to explore my work and connect with me. I'm always eager to learn, col
 - 🎓 Undergraduate at SLIIT City University
 - 💻 Currently learning **Web Application Development**
 - 🌍 Open to **collaboration** and **new opportunities**
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: sheriffshathir@gmail.com
 
 ---
 
