@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently studying at SLIIT CITY UNI
+---
+
+🎓 I’m currently studying at SLIIT CITY UNI
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
