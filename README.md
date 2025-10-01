@@ -36,3 +36,6 @@ Feel free to explore my work and connect with me. I'm always eager to learn, col
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
+
+### ⚙️ Technology Stack
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mysql,git,github,vscode,figma&theme=dark)
