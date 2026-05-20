@@ -40,6 +40,3 @@ Feel free to explore my work and connect with me. I'm always eager to learn, col
 ### ⚙️ Technology Stack
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mysql,git,github,vscode,figma&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shathirs)
-
-
