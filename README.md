@@ -1,3 +1,11 @@
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1589FF&width=435&lines=Welcome+to+my+profile+on+Github!!!;follow+my+Github+profile....)](https://git.io/typing-svg)
 
 # Hi, I'm Shathir 👋
